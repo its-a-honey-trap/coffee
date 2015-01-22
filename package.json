@@ -1,0 +1,13 @@
+{
+  "name": "coffee",
+  "version": "0.0.0",
+  "description": "I want to know what coffee is being served down the street.",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "cheerio": "^0.17.0",
+    "commander": "^2.3.0",
+    "express": "^4.8.8",
+    "request": "^2.42.0",
+    "scraper": "0.0.9"
+  }
+}
